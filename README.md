@@ -10,11 +10,11 @@
 ### 🔗 Código Github
 
 
-https://github.com 
+https://github.com/rafael2mind/tech-challenge-fase-1
 
 
 ### 🔗 Vídeo de apresentação
-https://www.youtube.com   
+https://youtu.be/hHWkgkJ76sE
 
 ---
 
